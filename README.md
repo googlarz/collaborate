@@ -159,3 +159,9 @@ Just describe what you want — no commands to memorize:
 > *"I'm done, pass it to Morgan"*
 > *"Go back to the version before Alex's turn"*
 > *"Show me where things stand"*
+
+---
+
+## Used by
+
+Using collaborate at your company? [Open an issue](https://github.com/googlarz/collaborate/issues/new?title=We+use+collaborate+at+%5BCompany%5D) — I'd love to add your logo here.
